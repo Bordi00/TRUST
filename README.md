@@ -33,13 +33,13 @@ The core of the project revolves around the **Extended Triple Diffie-Hellman** (
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/christiansassi/advanced-programming-of-cryptographic-methods-project
+git clone https://github.com/Bordi00/TRUST
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd advanced-programming-of-cryptographic-methods-project
+cd TRUST
 ```
 
 ## Configuration
